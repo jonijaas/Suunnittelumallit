@@ -1,5 +1,5 @@
 # Suunnittelumallit
-Suunnittelumallit -kurssin tehtävien ratkaisut Java-kielellä.
+Suunnittelumallit -kurssin tehtävien palautukset Java-kielellä.
 
 ---
 # Design Patterns
